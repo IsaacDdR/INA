@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002FINA\u002F_nuxt\u002Fstatic\u002F1632797276",layout:"contact-layout",error:a,serverRendered:true,routePath:"\u002Fcontacto",config:{_app:{basePath:"\u002FINA\u002F",assetsPath:"\u002FINA\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"6b7be9a7"}}}}(null));
