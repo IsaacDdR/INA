@@ -60,6 +60,10 @@ export default {
     },
   },
 
+  router: {
+    base: '/INA/',
+  },
+
   server: { host: '0' },
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
