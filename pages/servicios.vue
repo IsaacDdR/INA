@@ -67,7 +67,7 @@
       </h2>
       <p class="text-base text-gray-700 md:text-lg">
         Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-        accusantium doloremque rem aperiam, eaque ipsa quae.
+        accusantium doloremque rem aperiam, eaque ipsa
       </p>
     </div>
     <div class="grid gap-5 row-gap-5 mb-8 lg:grid-cols-4 sm:grid-cols-2">
