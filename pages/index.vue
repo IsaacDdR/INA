@@ -55,7 +55,7 @@
               hover:text-bg-deep-purple-accent-400
               rounded-md
               md:mb-0
-              hover:bg-purple-700
+              hover:bg-blue-500
               md:w-auto
             "
           >
